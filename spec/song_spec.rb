@@ -1,6 +1,7 @@
 require 'rspec'
 require 'song'
 require 'album'
+# require 'artist'
 require 'pry'
 require('spec_helper')
 
